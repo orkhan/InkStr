@@ -1,6 +1,6 @@
 {
     "name": "ink/ink-str",
-    "description": "Generate a URL friendly "slug" from a given string. (Skips ASCII)",
+    "description": "Generate a URL friendly \"slug\" from a given string. (Skips ASCII)",
     "keywords": ["laravel","support","slug","str"],
     "homepage": "https://github.com/orkhan/InkStr",
     "authors": [

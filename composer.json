@@ -1,0 +1,20 @@
+{
+    "name": "ink/ink-str",
+    "description": "",
+    "authors": [
+        {
+            "name": "Orkhan",
+            "email": "o@inkster.az"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Ink\\InkStr": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

@@ -28,5 +28,4 @@ $title = 'Türkçe yazılım. Azəricə yazılım';
 $slug  = InkStr::slug($title);
 
 echo $slug; // Returns "türkçe-yazılım-azəricə-yazılım"
-
 ```

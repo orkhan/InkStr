@@ -8,7 +8,7 @@ class InkStr extends Str {
      * Generate a URL friendly "slug" from a given string.
      *
      * <code>
-     *		// Returns "türkçe-yaz"
+     *		// Returns "türkçe-yazılım"
      *		$slug = Str::slug('Türkçe yazılım!');
      *
      *		// Returns "türkçe_yazılım"

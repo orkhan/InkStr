@@ -29,3 +29,9 @@ $slug  = InkStr::slug($title);
 
 echo $slug; // Returns "türkçe-yazılım-azəricə-yazılım"
 ```
+
+## Copyright and License
+
+InkTranslatable was written by Orkhan Maharramli and released under the MIT License. See the LICENSE file for details.
+
+Copyright 2013 Orkhan Maharramli
